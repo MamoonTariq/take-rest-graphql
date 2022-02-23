@@ -1,4 +1,4 @@
-### Graphql Take Rest
+### GraphQl
 
 ##### npm i express body-parser
 
