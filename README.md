@@ -5,3 +5,5 @@
 ##### npm i --save express-graphql graphql
 
 ##### npm i --save mongoose
+
+##### npm i --save bcryptjs
